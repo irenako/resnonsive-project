@@ -67,8 +67,20 @@ ul {
 .nav-link:hover {
   color: #662eed !important;
 }
-.sm-logo {
+.bottom {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #f9f7fe !important;
+}
+.soc-med {
   display: block;
-  position: static;
-  align-items: center;
+  justify-content: space-between;
+}
+
+.extra {
+  font-family: var(--font-family-2);
+  font-weight: 400;
+  font-size: 16px;
+  text-align: right;
+  padding-right: 20px;
 }
