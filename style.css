@@ -16,6 +16,7 @@
   background-color: #ffffff;
 }
 h1 {
+  font-family: var(--font-family-1);
   font-weight: 700;
   font-size: 72px;
   line-height: 98.21px;
@@ -107,4 +108,88 @@ h3 {
   font-weight: 400;
   font-size: 18px;
   line-height: 30px;
+}
+h4 {
+  font-family: var(--font-family-1);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 49px;
+  text-align: center;
+  color: #272142;
+}
+h5 {
+  font-family: var(--font-family-1);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  color: #272142;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.recipe-description {
+  font-family: var(--font-family-1);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #272142;
+}
+.fav-recipe {
+  padding-bottom: 100px;
+}
+.media-photo {
+  padding-right: 5px;
+}
+h6 {
+  font-family: var(--font-family-1);
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 25px;
+  color: #f65282;
+  padding: 0 auto;
+  margin: 0 auto;
+}
+.recipe {
+  font-family: var(--font-family-1);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  color: #272142;
+  padding-bottom: 0;
+}
+.img-recipe {
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 64px;
+}
+hr {
+  border: 1px #67d5d2 dashed;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+.contact-info {
+  font-family: var(--font-family-1);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: #662eed;
+  padding-bottom: 0;
+}
+.info-personal {
+  font-family: var(--font-family-1);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  color: #272142;
+  padding-bottom: 0;
+}
+#contactMe {
+  padding-top: 25px;
 }
