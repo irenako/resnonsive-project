@@ -88,8 +88,9 @@ ul {
 }
 
 .block-2 {
-  padding-bottom: 63px;
+  padding-bottom: 33px;
 }
+
 .personal-info {
   padding-left: 180px;
   padding-right: 180px;
@@ -192,4 +193,11 @@ hr {
 }
 #contactMe {
   padding-top: 25px;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: #272142;
+  text-decoration: none;
 }
