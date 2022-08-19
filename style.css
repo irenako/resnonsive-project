@@ -70,8 +70,6 @@ ul {
   color: #662eed !important;
 }
 .bottom {
-  padding-top: 15px;
-  padding-bottom: 15px;
   background-color: #f9f7fe !important;
 }
 .soc-med {
@@ -200,4 +198,14 @@ a {
 a:hover {
   color: #272142;
   text-decoration: none;
+}
+.rights {
+  font-family: var(--font-family-2);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #272142;
+  text-align: right;
+  margin-top: 45px;
 }
